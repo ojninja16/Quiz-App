@@ -9,7 +9,7 @@ Install using npm
 ```bash
   git clone https://github.com/ojninja16/Quiz-App.gitt
   cd quiz-react-app
-  npm install 
+  npm install --legacy-peer-deps
   npm run dev
 ```
 
