@@ -1,0 +1,64 @@
+.QuizCreator {
+  background-color: #f5f5f5;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.1);
+}
+
+.QuizCreator h5 {
+  margin-bottom: 16px;
+}
+
+.QuizCreator .MuiFormControlLabel-root {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.QuizCreator .MuiTypography-h6 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+.QuizCreator button {
+  margin-top: 16px;
+}
+
+.QuizCreator .question-container {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
+
+.QuizCreator .question-container h6 {
+  margin-bottom: 8px;
+}
+
+.QuizCreator .answer-option-container {
+  margin-bottom: 8px;
+}
+
+.QuizCreator .answer-option-container label {
+  font-size: 0.875rem;
+}
+
+.QuizCreator .correct-answer-label {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.QuizCreator .answer-text-field {
+  margin-bottom: 8px;
+}
+
+.QuizCreator .answer-text-field label {
+  font-size: 0.875rem;
+}
+
+.QuizCreator .add-question-button {
+  margin-top: 16px;
+}
+
+.QuizCreator .submit-button {
+  margin-top: 16px;
+}
