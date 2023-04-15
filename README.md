@@ -1,9 +1,6 @@
 
 # Quiz App Using React & Firebase 
 
-
-
-
 ## Installation
 
 Install using npm
@@ -14,8 +11,4 @@ Install using npm
   npm install 
   npm run dev
 ```
-
-## Tech Stack
-
-**Client:** React, Firebase
 
